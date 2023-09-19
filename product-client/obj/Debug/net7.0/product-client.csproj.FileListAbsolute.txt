@@ -1,0 +1,17 @@
+C:\Users\emre_\Desktop\SabancıDx\product-client\bin\Debug\net7.0\product-client.exe
+C:\Users\emre_\Desktop\SabancıDx\product-client\bin\Debug\net7.0\product-client.deps.json
+C:\Users\emre_\Desktop\SabancıDx\product-client\bin\Debug\net7.0\product-client.runtimeconfig.json
+C:\Users\emre_\Desktop\SabancıDx\product-client\bin\Debug\net7.0\product-client.dll
+C:\Users\emre_\Desktop\SabancıDx\product-client\bin\Debug\net7.0\product-client.pdb
+C:\Users\emre_\Desktop\SabancıDx\product-client\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.csproj.AssemblyReference.cache
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.AssemblyInfoInputs.cache
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.AssemblyInfo.cs
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.csproj.CopyComplete
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.dll
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\refint\product-client.dll
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.pdb
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\product-client.genruntimeconfig.cache
+C:\Users\emre_\Desktop\SabancıDx\product-client\obj\Debug\net7.0\ref\product-client.dll
